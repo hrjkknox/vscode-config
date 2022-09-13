@@ -1,0 +1,26 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.mouseWheelZoom": true,
+    "editor.insertSpaces": false,
+    "[go]": {
+        "editor.formatOnSave": false,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": false
+        },
+    },
+    "go.formatTool": "gofmt",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": true,
+    "terminal.integrated.fontSize": 20,
+    "vsicons.dontShowNewVersionMessage": true,
+    "security.workspace.trust.untrustedFiles": "open",
+
+}
